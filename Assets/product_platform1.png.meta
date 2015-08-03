@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: ae4e8a14e184aeb49abc6380127fe055
+timeCreated: 1430123970
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: product_platform1_0
+    21300002: platform1
+    21300004: platform2
+    21300006: platform_right
+    21300008: platform_right_2
+    21300010: spikes
+    21300012: grass1
+    21300014: grass2
+    21300016: platGrass9
+    21300018: plat5
+    21300020: flower1
+    21300022: platGrass12
+    21300024: platGrass8
+    21300026: flower2
+    21300028: platGrass1
+    21300030: platGrass2
+    21300032: platGrass3
+    21300034: platGrass11
+    21300036: platGrass10
+    21300038: platGrass7
+    21300040: sign1
+    21300042: sign3
+    21300044: platGrass6
+    21300046: product_platform1_24
+    21300048: platGrass5
+    21300050: flower3
+    21300052: sign5
+    21300054: sign4
+    21300056: platGrass4
+    21300058: grass4
+    21300060: tree1
+    21300062: ladder1
+    21300064: fencebig
+    21300066: product_platform1_36
+    21300068: grass3
+    21300070: fruit3
+    21300072: stone1
+    21300074: fruit2
+    21300076: ladder2
+    21300078: ladderBig
+    21300080: tree3
+    21300082: tree2
+    21300084: fruit4
+    21300086: rock3
+    21300088: fruit1
+    21300090: rock2
+    21300092: sign2
+    21300094: platform_left
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: product_platform1_0
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 983
+        width: 100
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 979
+        width: 65
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 979
+        width: 62
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform_right
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 979
+        width: 62
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform_right_2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 983
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spikes
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 987
+        width: 130
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass1
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 983
+        width: 53
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass2
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 979
+        width: 61
+        height: 88
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platGrass9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 892
+        width: 67
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plat5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 900
+        width: 63
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 870
+        width: 111
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platGrass12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 834
+        width: 75
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platGrass8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 828
+        width: 78
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 752
+        width: 108
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platGrass1
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 836
+        width: 66
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platGrass2
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 836
+        width: 64
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platGrass3
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 836
+        width: 77
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platGrass11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 774
+        width: 75
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platGrass10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 735
+        width: 76
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platGrass7
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 773
+        width: 65
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sign1
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 729
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sign3
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 737
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platGrass6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 712
+        width: 66
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: product_platform1_24
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 737
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platGrass5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 643
+        width: 73
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 632
+        width: 113
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sign5
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 632
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sign4
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 631
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platGrass4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 552
+        width: 64
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 537
+        width: 107
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree1
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 479
+        width: 208
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ladder1
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 548
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fencebig
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 292
+        width: 253
+        height: 258
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: product_platform1_36
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 475
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 457
+        width: 113
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fruit3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 402
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 381
+        width: 93
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fruit2
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 503
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ladder2
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 312
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ladderBig
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 402
+        width: 75
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 11
+        width: 176
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 143
+        width: 184
+        height: 261
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fruit4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 168
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rock3
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 182
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fruit1
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 244
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rock2
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 101
+        width: 132
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sign2
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 739
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform_left
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 982
+        width: 62
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
